@@ -1,7 +1,7 @@
 <div align="center">
-    <h2>Hi there! 👋🤓<br>I'm Marcel</h2>
+    <h2>Hi there! 👋🤓</h2>
     <p>
-        A technical SEO Manager on a journey to data engineering.
+        I am Marcel! A technical SEO Manager on a journey to data engineering.
         <br />
         <a href="#"><strong>Explore me »</strong></a>
         <br />
