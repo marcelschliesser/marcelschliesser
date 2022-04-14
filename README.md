@@ -1,7 +1,7 @@
 <div align="center">
-    <h2>Hi there! 👋😉</h2>
+    <h2>Data Engineer since 2022 & Data Domain Owner for SEO</h2>
     <p>
-        I'm Marcel! A <strong>technical SEO Manager</strong> on a journey to <strong>data engineering</strong>.
+        I'm Marcel!
         <br />
         <a href="https://thinq.digital/"><strong>My Journey »</strong></a>
         <br />
