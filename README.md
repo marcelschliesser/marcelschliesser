@@ -1,5 +1,5 @@
 ## Moin :anchor:
-> I'm Marcel! A **passionate** and **self taught** data engineer currently working at @Tchibo!
+> I'm Marcel! A **passionate** and **self taught** data engineer currently working at @Tchibo !
 
 ![codewars](https://www.codewars.com/users/marcelschliesser/badges/micro)
 
